@@ -3,13 +3,13 @@ Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `
 
 <pre>
 <b>Symbol</b>   <b>Value</b>
-I               1
-V               5
-X               10
-L               50
-C               100
-D               500
-M               1000
+I   1
+V   5
+X   10
+L   50
+C   100
+D   500
+M   1000
 </pre>
 
 For example, `2` is written `II` in Roman numeral, just two one's added together. `12` is written as `XII`, which is simply `X + II`. The number `27` is written as `XXVII`, which is `XX + V + II`.
