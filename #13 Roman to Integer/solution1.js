@@ -52,3 +52,7 @@
 };
 
 console.log(romanToInt('MCMXCIV'));
+/* RESULTS: 
+Runtime: 164ms, faster than 70.11% of JavaScript submissions
+Memory Usage: 44.7 MB, less than 86.21% of JavaScript submissions
+*/
