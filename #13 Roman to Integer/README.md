@@ -1,7 +1,7 @@
 # (EASY) 13. Roman to Integer
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D`, and `M`.
 
-    <strong>Symbol</strong>  **Value**
+    <b>Symbol</b>         Value
     I               1
 
 For example, `2` is written `II` in Roman numeral, just two one's added together. `12` is written as `XII`, which is simply `X + II`. The number `27` is written as `XXVII`, which is `XX + V + II`.
