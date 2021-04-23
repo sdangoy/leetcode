@@ -40,5 +40,5 @@
 Runtime: 120ms, faster than 5.11% of JavaScript submissions
 Memory Usage: 40.1 MB, less than 35.56% of JavaScript submissions
 O(n) runtime where n is the length of the string input because it iterates through the string only once!
-O(n) space where n is the length of the string input.
+O(n) space where n is the length of the string input because in the worst case, we will end up pushing all the brackets onto the stack.
 */
