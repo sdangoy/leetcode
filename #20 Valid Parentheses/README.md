@@ -39,6 +39,6 @@ Any input string is valid if:
 
 **Constraints:**
 <ul>
-    <li><code>1 <= s.length <= 10<super>4</super></code></li>
+    <li><code>1 <= s.length <= 10<sup>4</sup></code></li>
     <li><code>s</code> consists of parentheses only <code>'()[]{}'</code>.</li>
 </ul>
