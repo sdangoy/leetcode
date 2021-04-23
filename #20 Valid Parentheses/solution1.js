@@ -17,7 +17,7 @@
         }
         
         currentOpenBracket = bracketStack.pop()
-        if (s[i] === ')' && currentOpenBracket != '(') { // For each ending bracket, check if it matches the latest opening bracket. Lots of repeated code here! Create a new function?
+        if (s[i] === ')' && currentOpenBracket != '(') { // For each ending bracket, check if it matches the latest opening bracket. Lots of repeated code here!
             return false;
         }
         
